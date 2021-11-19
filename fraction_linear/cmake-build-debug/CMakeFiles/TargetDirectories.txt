@@ -1,0 +1,3 @@
+C:/Users/Jayveer sinh  Raj/CLionProjects/fraction_linear/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Jayveer sinh  Raj/CLionProjects/fraction_linear/cmake-build-debug/CMakeFiles/fraction_linear.dir
+C:/Users/Jayveer sinh  Raj/CLionProjects/fraction_linear/cmake-build-debug/CMakeFiles/edit_cache.dir
